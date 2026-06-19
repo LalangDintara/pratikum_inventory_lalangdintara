@@ -40,7 +40,7 @@
         <div class="card card-success card-outline mb-4">
 
             <div class="card-header text-center">
-                <img src="assets/img/jpg2.png" width="80" height="80" alt="icon">
+                <img src="assets/img/logo.png" width="80" height="80" alt="icon">
                 <h3 class="card-title float-none">
 
                     PT Apotek Obat Abet
