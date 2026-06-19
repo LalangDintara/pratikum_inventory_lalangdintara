@@ -19,7 +19,10 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            background-color: #f4f6f9;
+            background-image: url("assets/img/molecule-pattern.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
         }
 
         .register-container {
@@ -37,10 +40,10 @@
         <div class="card card-success card-outline mb-4">
 
             <div class="card-header text-center">
-                <img src="assets/img/matrai-removebg-preview.png" width="80" height="80" alt="icon">
+                <img src="assets/img/jpg2.png" width="80" height="80" alt="icon">
                 <h3 class="card-title float-none">
 
-                    PT BAZMA COMPANY
+                    PT Apotek Obat Abet
                 </h3>
             </div>
 
